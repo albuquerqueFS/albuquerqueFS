@@ -6,7 +6,7 @@
 
 <div align="center"> 
   <img style="height: 100%" src="https://github-readme-stats.vercel.app/api?username=albuquerquefs&theme=solarized-light">
-  <img style="height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albuquerquefs&theme=solarized-light">
+  <img style="height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albuquerquefs&theme=solarized-light&layout-compact">
 </div>
 
 
