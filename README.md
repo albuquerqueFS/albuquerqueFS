@@ -4,4 +4,9 @@
 #### -✏️ Trying to master front-end development.
 #### -🕹️ I'm addicted to manga, anime and games.
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerquefs)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display: inline">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+</div>
