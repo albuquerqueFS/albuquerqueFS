@@ -4,9 +4,10 @@
 #### -✏️ Trying to master front-end development.
 #### -🕹️ I'm addicted to manga, anime and games.
 
-
-[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerquefs&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albuquerquefs)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> 
+  <img style="height: 100%" src="https://github-readme-stats.vercel.app/api?username=albuquerquefs&theme=solarized-light">
+  <img style="height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albuquerquefs&theme=solarized-light">
+</div>
 
 
 <div style="display: inline">
