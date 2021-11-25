@@ -8,5 +8,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerquefs)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
