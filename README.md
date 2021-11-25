@@ -5,7 +5,7 @@
 #### -🕹️ I'm addicted to manga, anime and games.
 
 
-[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerquefs?theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerquefs&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albuquerquefs)](https://github.com/anuraghazra/github-readme-stats)
 
 
