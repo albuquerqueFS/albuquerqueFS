@@ -1,5 +1,4 @@
 # Hey 👋, i'm Henrique. 
-# Welcome to my github. ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 #### -🏛️ I work at [Safra Bank](https://safra.com.br).
 #### -✏️ Trying to master front-end development.
