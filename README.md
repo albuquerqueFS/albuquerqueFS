@@ -2,7 +2,7 @@
 # Hey 👋
 
 <div align="center">
-<a href="https://www.linkedin.com/in/albuquerquefs/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/344/linkedin.png" alt="" height="80" width="40" /></a>
+<a href="https://www.linkedin.com/in/albuquerquefs/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/344/linkedin.png" alt="" height="80" width="80" /></a>
 </div>
 
 #### -🏛️ I'm a software engineer at the Boston Consulting Group.
