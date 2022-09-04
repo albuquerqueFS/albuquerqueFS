@@ -10,6 +10,11 @@
 #### -🕹️ I love games, anime and manga.
 #### -🎨 Specially interested in CSS. 
 <br>
+
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albuquerqueFS)](https://git.io/streak-stats)
+</div>
+  
 <div align="center"> 
   <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=albuquerquefs&theme=solarized-light">
   <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albuquerquefs&theme=solarized-light&layout=compact">
