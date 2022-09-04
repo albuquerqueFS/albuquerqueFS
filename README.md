@@ -49,6 +49,8 @@
 </div>
 
 <br>
+<br>
+
 <div align="center"> 
   <img style="height: 100px" src="https://spotify-recently-played-readme.vercel.app/api?user=henrique_barretto&count=1">
 </div>
