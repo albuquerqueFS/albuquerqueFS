@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/albuquerqueFS/albuquerqueFS/main/banner.png)](https://github.com/albuquerqueFS)
-# Hey 👋, i'm Henrique. 
+# Hey 👋
 
 #### -🏛️ I'm a software engineer at the Boston Consulting Group.
 #### -✏️ Trying to master front-end development.
