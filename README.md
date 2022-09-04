@@ -10,7 +10,9 @@
 #### -🕹️ I love games, anime and manga.
 #### -🎨 Specially interested in CSS. 
 <br>
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=henrique_barretto)
+
 <div align="center"> 
   <img style="height: 180px" src="http://github-readme-streak-stats.herokuapp.com?user=albuquerqueFS&theme=solarized-light">
   <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=albuquerquefs&theme=solarized-light">
