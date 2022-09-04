@@ -11,7 +11,7 @@
 #### -🎨 Specially interested in CSS. 
 <br>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=henrique_barretto)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=henrique_barretto&count=1)
 
 <div align="center"> 
   <img style="height: 180px" src="http://github-readme-streak-stats.herokuapp.com?user=albuquerqueFS&theme=solarized-light">
