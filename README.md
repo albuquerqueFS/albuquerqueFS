@@ -11,8 +11,6 @@
 #### -🎨 Specially interested in CSS. 
 <br>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=henrique_barretto&count=1)
-
 <div align="center"> 
   <img style="height: 180px" src="http://github-readme-streak-stats.herokuapp.com?user=albuquerqueFS&theme=solarized-light">
   <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=albuquerquefs&theme=solarized-light">
@@ -27,3 +25,5 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 </div>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=henrique_barretto&count=1)
