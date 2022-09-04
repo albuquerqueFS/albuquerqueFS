@@ -1,9 +1,9 @@
 # Hey 👋, i'm Henrique. 
 
-#### -🏛️ I work at [Safra Bank](https://safra.com.br).
+#### -🏛️ I'm a software engineer at the Boston Consulting Group.
 #### -✏️ Trying to master front-end development.
 #### -🕹️ I love games, anime and manga.
-#### -🎨 Specially interested in CSS and TreeJS. 
+#### -🎨 Specially interested in CSS. 
 <br>
 <div align="center"> 
   <img style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=albuquerquefs&theme=solarized-light">
