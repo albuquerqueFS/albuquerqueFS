@@ -6,8 +6,8 @@
 #### -🎨 Specially interested in CSS. 
 <br>
 <div align="center"> 
-  <img style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=albuquerquefs&theme=solarized-light">
-  <img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albuquerquefs&theme=solarized-light&layout=compact">
+  <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=albuquerquefs&theme=solarized-light">
+  <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albuquerquefs&theme=solarized-light&layout=compact">
 </div>
 <br>
 <div style="display: inline">
