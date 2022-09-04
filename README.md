@@ -48,6 +48,6 @@
   <img height="50" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
-<div align="center"> 
-  <img style="height: 180px" src="https://spotify-recently-played-readme.vercel.app/api?user=henrique_barretto&count=1">
+<div align="center" style="margin-top: 30px;"> 
+  <img style="height: 100px" src="https://spotify-recently-played-readme.vercel.app/api?user=henrique_barretto&count=1">
 </div>
