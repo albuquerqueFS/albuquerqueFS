@@ -11,7 +11,7 @@
 #### -🎨 Specially interested in CSS. 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albuquerqueFS)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=albuquerqueFS&theme=solarized-light)](https://git.io/streak-stats)
 
 <div align="center"> 
   <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=albuquerquefs&theme=solarized-light">
