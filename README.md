@@ -24,7 +24,7 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-#### 🏛️ I'm a software engineer at the Boston Consulting Group, the .
+#### 🏛️ I deliver experiences at BCG X, the 1# AI Company in the world.
 #### ✏️ Trying to master front-end development.
 #### 🕹️ Data Engineer in development
 #### 🎨 Specially interested in building awesome UI/UX experiences. 
