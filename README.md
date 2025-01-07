@@ -1,4 +1,4 @@
-<p>Welcome to my page! </br> I'm Henrique, Front-end Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>São Paulo, Brazil</b> </p>
+<p>Good to see you here! </br> I'm Henrique, Front-end Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>São Paulo, Brazil</b> </p>
 <p>You can find me at <a href="whoishenrique.dev">whoishenrique.dev</a></p>
 <h3>Things I code with</h3>
 <p>
