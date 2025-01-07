@@ -1,4 +1,4 @@
-<p>Welcome to my page! </br> I'm Henrique, Front-end Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>São Paulo, Brazil</b> </p>
+<p>Welcome to my page! </br> I'm Henrique, Front-end Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>São Paulo, Brazil</b> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
